@@ -6,7 +6,7 @@ import { Wordmark } from '@/components/Wordmark';
 
 const NAV_ITEMS = [
   { to: '/shop', label: 'Shop' },
-  { to: '/category/jewellery', label: 'Jewellery' },
+  { to: '/category/necklaces', label: 'Necklaces' },
   { to: '/category/beauty', label: 'Beauty' },
   { to: '/about', label: 'Our story' },
   { to: '/gallery', label: 'The feed' },
