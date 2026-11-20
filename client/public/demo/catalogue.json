@@ -1,0 +1,537 @@
+{
+  "generatedAt": "2026-11-20T20:53:12.609Z",
+  "settings": {
+    "about": {
+      "intro": "Premium anti-tarnish, gold-alike jewellery and everyday beauty from Mumbai — pocket friendly and shipped across India.",
+      "story": "",
+      "founderImageUrl": "/images/boutique.jpg"
+    },
+    "announcements": {
+      "enabled": true,
+      "text": "Anti-tarnish gold-alike jewellery · Ships across India · 97698 36346"
+    },
+    "policies": {
+      "shipping": "We ship across India with tracked courier — 2–6 working days depending on the pin code, and usually next day within Mumbai. Shipping is confirmed on WhatsApp before dispatch.",
+      "returns": "Unworn pieces can be exchanged within 7 days of delivery, in their box with the tag intact. If something arrives damaged, send a photograph the same day and we will replace it."
+    },
+    "_id": "6b00b2fadd6a595bf7825ab6",
+    "businessName": "AFSHAN COSMETICS & JEWELLERY",
+    "tagline": "Anti-Tarnish Gold-Alike Jewellery · Mumbai",
+    "whatsappNumber": "+91 97698 36346",
+    "instagramUrl": "https://www.instagram.com/afshan_cosmetics_mumbai/",
+    "instagramHandle": "afshan_cosmetics_mumbai",
+    "email": "",
+    "city": "Mumbai",
+    "mapsUrl": "",
+    "whatsappTemplate": "Hi Afshan! ✨\nI would like to enquire about:\n{{ITEMS}}\nEstimated total: {{TOTAL}}\n\nPlease confirm availability, price and shipping.",
+    "whatsappSingleProductTemplate": "Hi Afshan! ✨\nI would like to ask about:\n• {{PRODUCT}}\n{{VARIANT_LINE}}{{QTY_LINE}}Price: {{PRICE}}\n\nPlease send photographs and confirm shipping.",
+    "heroSlides": [
+      {
+        "imageUrl": "/images/hero-noor.jpg",
+        "eyebrow": "Mumbai · Ships across India",
+        "headline": "Gold that stays gold.",
+        "subheadline": "Premium anti-tarnish jewellery and everyday beauty — gold-alike finishes, pocket-friendly prices and gift-ready packing from Mumbai.",
+        "ctaLabel": "Shop the collection",
+        "ctaHref": "/shop",
+        "active": true
+      },
+      {
+        "imageUrl": "/images/hero-jhumka.jpg",
+        "eyebrow": "The earring edit",
+        "headline": "Made for the entrance.",
+        "subheadline": "Jhumkas and pearl studs in anti-tarnish gold — light enough for a full day, loud enough for the photograph.",
+        "ctaLabel": "Shop earrings",
+        "ctaHref": "/category/earrings",
+        "active": true
+      },
+      {
+        "imageUrl": "/images/hero-gift.jpg",
+        "eyebrow": "Gifting · Boxed and ready",
+        "headline": "Send gold, not a gift card.",
+        "subheadline": "Keepsake boxes, handwritten cards and no price tag inside — tell us the occasion and we will pack it.",
+        "ctaLabel": "Shop gift sets",
+        "ctaHref": "/category/beauty",
+        "active": true
+      }
+    ],
+    "createdAt": "2026-11-20T20:52:10.591Z",
+    "updatedAt": "2026-11-20T20:52:10.591Z",
+    "__v": 0
+  },
+  "products": [
+    {
+      "_id": "6b00b2fadd6a595bf7825ac1",
+      "name": "Noor Layered Chain Set",
+      "slug": "noor-layered-chain-set",
+      "description": "Three fine chains, graduated in length and finished with a single crystal pendant. Worn together they read as one deliberate piece; worn alone, each holds its own. The clasp is adjustable, so the longest chain can sit at the collarbone or below it.",
+      "price": null,
+      "compareAtPrice": null,
+      "fabric": "Gold-plated brass, anti-tarnish coating, cubic zirconia pendant, adjustable clasp",
+      "care": "Nickel-free and anti-tarnish. Wipe with a dry cloth after wear and keep away from perfume and chlorine.",
+      "colour": "Gold finish",
+      "category": {
+        "_id": "6b00b2fadd6a595bf7825ab9",
+        "name": "Necklaces",
+        "slug": "necklaces"
+      },
+      "images": [
+        "/images/p-noor-chain.jpg",
+        "/images/hero-noor.jpg"
+      ],
+      "variants": [
+        {
+          "name": "18 inch",
+          "price": null,
+          "stockStatus": "in_stock"
+        },
+        {
+          "name": "20 inch",
+          "price": null,
+          "stockStatus": "in_stock"
+        },
+        {
+          "name": "22 inch",
+          "price": null,
+          "stockStatus": "in_stock"
+        }
+      ],
+      "stockStatus": "in_stock",
+      "bestseller": true,
+      "featured": true,
+      "newArrival": true,
+      "seoTitle": "",
+      "seoDescription": "",
+      "displayOrder": 1,
+      "archived": false,
+      "createdAt": "2026-11-20T20:52:10.611Z",
+      "updatedAt": "2026-11-20T20:52:10.611Z",
+      "__v": 0
+    },
+    {
+      "_id": "6b00b2fadd6a595bf7825ac5",
+      "name": "Meher Jhumka",
+      "slug": "meher-jhumka",
+      "description": "A classic dome jhumka with a pearl drop, finished by hand so the second earring matches the first. Light enough for a full working day, and loud enough to carry an outfit on its own.",
+      "price": null,
+      "compareAtPrice": null,
+      "fabric": "Gold-plated alloy, anti-tarnish coating, faux pearl drop, nickel-free posts",
+      "care": "Nickel-free and suitable for sensitive ears. Wipe after wear; do not soak.",
+      "colour": "Gold finish",
+      "category": {
+        "_id": "6b00b2fadd6a595bf7825abb",
+        "name": "Earrings",
+        "slug": "earrings"
+      },
+      "images": [
+        "/images/p-meher-jhumka.jpg",
+        "/images/hero-jhumka.jpg"
+      ],
+      "variants": [
+        {
+          "name": "Small",
+          "price": null,
+          "stockStatus": "in_stock"
+        },
+        {
+          "name": "Medium",
+          "price": null,
+          "stockStatus": "in_stock"
+        },
+        {
+          "name": "Large",
+          "price": null,
+          "stockStatus": "in_stock"
+        }
+      ],
+      "stockStatus": "in_stock",
+      "bestseller": true,
+      "featured": true,
+      "newArrival": true,
+      "seoTitle": "",
+      "seoDescription": "",
+      "displayOrder": 3,
+      "archived": false,
+      "createdAt": "2026-11-20T20:52:10.620Z",
+      "updatedAt": "2026-11-20T20:52:10.620Z",
+      "__v": 0
+    },
+    {
+      "_id": "6b00b2fadd6a595bf7825ac9",
+      "name": "Zoya Stacking Rings",
+      "slug": "zoya-stacking-rings",
+      "description": "A set of fine rings meant to be worn together in any order — one plain, one stone-set, one twisted. Buy the set of three for a first stack, or five for a full hand.",
+      "price": null,
+      "compareAtPrice": null,
+      "fabric": "Gold-plated brass, anti-tarnish coating, cubic zirconia accents",
+      "care": "Nickel-free and water-resistant. Remove before swimming or applying lotion.",
+      "colour": "Gold finish",
+      "category": {
+        "_id": "6b00b2fadd6a595bf7825abd",
+        "name": "Rings & Bracelets",
+        "slug": "rings-bracelets"
+      },
+      "images": [
+        "/images/p-zoya-rings.jpg"
+      ],
+      "variants": [
+        {
+          "name": "Set of 3",
+          "price": null,
+          "stockStatus": "in_stock"
+        },
+        {
+          "name": "Set of 5",
+          "price": null,
+          "stockStatus": "in_stock"
+        }
+      ],
+      "stockStatus": "in_stock",
+      "bestseller": false,
+      "featured": true,
+      "newArrival": false,
+      "seoTitle": "",
+      "seoDescription": "",
+      "displayOrder": 5,
+      "archived": false,
+      "createdAt": "2026-11-20T20:52:10.626Z",
+      "updatedAt": "2026-11-20T20:52:10.626Z",
+      "__v": 0
+    },
+    {
+      "_id": "6b00b2fadd6a595bf7825acd",
+      "name": "Velvet Matte Lipstick",
+      "slug": "velvet-matte-lipstick",
+      "description": "A soft matte that does not chalk out by lunch — buildable colour, comfortable on the lip, and chosen to sit beside gold jewellery rather than fight it. Three everyday shades.",
+      "price": null,
+      "compareAtPrice": null,
+      "fabric": "Cream matte base, vitamin E, rose-nude / brick / mauve pigments",
+      "care": "Dermatologically tested and cruelty-free. Check the shade name on the base before gifting.",
+      "colour": "Three shades",
+      "category": {
+        "_id": "6b00b2fadd6a595bf7825abf",
+        "name": "Beauty & Gifting",
+        "slug": "beauty"
+      },
+      "images": [
+        "/images/p-velvet-lipstick.jpg"
+      ],
+      "variants": [
+        {
+          "name": "Rose nude",
+          "price": null,
+          "stockStatus": "in_stock"
+        },
+        {
+          "name": "Brick",
+          "price": null,
+          "stockStatus": "in_stock"
+        },
+        {
+          "name": "Mauve",
+          "price": null,
+          "stockStatus": "in_stock"
+        }
+      ],
+      "stockStatus": "in_stock",
+      "bestseller": false,
+      "featured": true,
+      "newArrival": true,
+      "seoTitle": "",
+      "seoDescription": "",
+      "displayOrder": 7,
+      "archived": false,
+      "createdAt": "2026-11-20T20:52:10.630Z",
+      "updatedAt": "2026-11-20T20:52:10.630Z",
+      "__v": 0
+    },
+    {
+      "_id": "6b00b2fadd6a595bf7825ac3",
+      "name": "Gulbahar Choker Set",
+      "slug": "gulbahar-choker-set",
+      "description": "A stone-set choker with a matching pair of jhumkas — the wedding-guest answer when there is no time to shop for a set. The choker sits flat against the neck and the earrings are weighted light enough to keep on through the photographs.",
+      "price": null,
+      "compareAtPrice": null,
+      "fabric": "Gold-plated alloy, anti-tarnish coating, ruby-red and clear stones, pearl drops",
+      "care": "Nickel-free. Store in the pouch provided; avoid direct perfume spray on the stones.",
+      "colour": "Gold finish",
+      "category": {
+        "_id": "6b00b2fadd6a595bf7825ab9",
+        "name": "Necklaces",
+        "slug": "necklaces"
+      },
+      "images": [
+        "/images/p-gulbahar-choker.jpg",
+        "/images/hero-gift.jpg"
+      ],
+      "variants": [
+        {
+          "name": "Choker only",
+          "price": null,
+          "stockStatus": "in_stock"
+        },
+        {
+          "name": "Choker + jhumka set",
+          "price": null,
+          "stockStatus": "in_stock"
+        }
+      ],
+      "stockStatus": "in_stock",
+      "bestseller": true,
+      "featured": false,
+      "newArrival": false,
+      "seoTitle": "",
+      "seoDescription": "",
+      "displayOrder": 2,
+      "archived": false,
+      "createdAt": "2026-11-20T20:52:10.616Z",
+      "updatedAt": "2026-11-20T20:52:10.616Z",
+      "__v": 0
+    },
+    {
+      "_id": "6b00b2fadd6a595bf7825ac7",
+      "name": "Sana Pearl Studs",
+      "slug": "sana-pearl-studs",
+      "description": "The pair that never leaves the ear. A single pearl on a low-profile setting, small enough to sleep in and clean enough for a workday. Choose gold or rose-gold tone.",
+      "price": null,
+      "compareAtPrice": null,
+      "fabric": "Gold-plated brass, anti-tarnish coating, shell pearl, nickel-free posts",
+      "care": "Nickel-free. Keep away from hairspray and perfume; wipe with a soft dry cloth.",
+      "colour": "Gold or rose gold",
+      "category": {
+        "_id": "6b00b2fadd6a595bf7825abb",
+        "name": "Earrings",
+        "slug": "earrings"
+      },
+      "images": [
+        "/images/p-sana-studs.jpg"
+      ],
+      "variants": [
+        {
+          "name": "Gold",
+          "price": null,
+          "stockStatus": "in_stock"
+        },
+        {
+          "name": "Rose gold",
+          "price": null,
+          "stockStatus": "in_stock"
+        }
+      ],
+      "stockStatus": "in_stock",
+      "bestseller": false,
+      "featured": false,
+      "newArrival": true,
+      "seoTitle": "",
+      "seoDescription": "",
+      "displayOrder": 4,
+      "archived": false,
+      "createdAt": "2026-11-20T20:52:10.623Z",
+      "updatedAt": "2026-11-20T20:52:10.623Z",
+      "__v": 0
+    },
+    {
+      "_id": "6b00b2fadd6a595bf7825acb",
+      "name": "Afshan Signature Bangle",
+      "slug": "afshan-signature-bangle",
+      "description": "A single polished bangle with a fine engraved edge — the piece customers come back for in a second size. Wear one alone or stack three; the finish is tested to keep its colour through daily wear.",
+      "price": null,
+      "compareAtPrice": null,
+      "fabric": "Gold-plated alloy, anti-tarnish coating, hand-finished engraving",
+      "care": "Nickel-free. Wipe after wear and store flat to protect the shape.",
+      "colour": "Gold finish",
+      "category": {
+        "_id": "6b00b2fadd6a595bf7825abd",
+        "name": "Rings & Bracelets",
+        "slug": "rings-bracelets"
+      },
+      "images": [
+        "/images/p-signature-bangle.jpg"
+      ],
+      "variants": [
+        {
+          "name": "2.4",
+          "price": null,
+          "stockStatus": "in_stock"
+        },
+        {
+          "name": "2.6",
+          "price": null,
+          "stockStatus": "in_stock"
+        },
+        {
+          "name": "2.8",
+          "price": null,
+          "stockStatus": "in_stock"
+        }
+      ],
+      "stockStatus": "in_stock",
+      "bestseller": true,
+      "featured": false,
+      "newArrival": false,
+      "seoTitle": "",
+      "seoDescription": "",
+      "displayOrder": 6,
+      "archived": false,
+      "createdAt": "2026-11-20T20:52:10.628Z",
+      "updatedAt": "2026-11-20T20:52:10.628Z",
+      "__v": 0
+    },
+    {
+      "_id": "6b00b2fadd6a595bf7825acf",
+      "name": "Oud & Rose Eau de Parfum",
+      "slug": "oud-rose-eau-de-parfum",
+      "description": "Rose at the top, oud underneath, and enough warmth to last an evening without being loud in a small room. The bottle is boxed and ready to give as it is.",
+      "price": null,
+      "compareAtPrice": null,
+      "fabric": "Rose, oud, amber and musk in an alcohol-free-look base; 30 ml and 50 ml",
+      "care": "For external use only. Keep away from direct sunlight; patch test before first use.",
+      "colour": "Oriental floral",
+      "category": {
+        "_id": "6b00b2fadd6a595bf7825abf",
+        "name": "Beauty & Gifting",
+        "slug": "beauty"
+      },
+      "images": [
+        "/images/p-oud-parfum.jpg"
+      ],
+      "variants": [
+        {
+          "name": "30 ml",
+          "price": null,
+          "stockStatus": "in_stock"
+        },
+        {
+          "name": "50 ml",
+          "price": null,
+          "stockStatus": "in_stock"
+        }
+      ],
+      "stockStatus": "in_stock",
+      "bestseller": false,
+      "featured": false,
+      "newArrival": false,
+      "seoTitle": "",
+      "seoDescription": "",
+      "displayOrder": 8,
+      "archived": false,
+      "createdAt": "2026-11-20T20:52:10.632Z",
+      "updatedAt": "2026-11-20T20:52:10.632Z",
+      "__v": 0
+    }
+  ],
+  "categories": [
+    {
+      "_id": "6b00b2fadd6a595bf7825ab9",
+      "name": "Necklaces",
+      "slug": "necklaces",
+      "description": "Layered chains, pendants and choker sets — anti-tarnish gold-alike, made to sit light.",
+      "image": "/images/p-noor-chain.jpg",
+      "displayOrder": 1,
+      "createdAt": "2026-11-20T20:52:10.598Z",
+      "updatedAt": "2026-11-20T20:52:10.598Z",
+      "__v": 0
+    },
+    {
+      "_id": "6b00b2fadd6a595bf7825abb",
+      "name": "Earrings",
+      "slug": "earrings",
+      "description": "Jhumkas, hoops and pearl studs — from office-quiet to shaadi-loud.",
+      "image": "/images/p-meher-jhumka.jpg",
+      "displayOrder": 2,
+      "createdAt": "2026-11-20T20:52:10.600Z",
+      "updatedAt": "2026-11-20T20:52:10.600Z",
+      "__v": 0
+    },
+    {
+      "_id": "6b00b2fadd6a595bf7825abd",
+      "name": "Rings & Bracelets",
+      "slug": "rings-bracelets",
+      "description": "Stackable rings and bangles that survive washing hands, deadlines and monsoon.",
+      "image": "/images/p-zoya-rings.jpg",
+      "displayOrder": 3,
+      "createdAt": "2026-11-20T20:52:10.602Z",
+      "updatedAt": "2026-11-20T20:52:10.602Z",
+      "__v": 0
+    },
+    {
+      "_id": "6b00b2fadd6a595bf7825abf",
+      "name": "Beauty & Gifting",
+      "slug": "beauty",
+      "description": "Lipsticks, fragrance and ready-to-give sets — boxed, carded and price-free inside.",
+      "image": "/images/p-velvet-lipstick.jpg",
+      "displayOrder": 4,
+      "createdAt": "2026-11-20T20:52:10.604Z",
+      "updatedAt": "2026-11-20T20:52:10.604Z",
+      "__v": 0
+    }
+  ],
+  "reviews": [],
+  "gallery": [
+    {
+      "_id": "6b00b2fadd6a595bf7825ad1",
+      "image": "/images/hero-noor.jpg",
+      "caption": "Layered gold, every day",
+      "externalUrl": "https://www.instagram.com/afshan_cosmetics_mumbai/",
+      "displayOrder": 1,
+      "active": true,
+      "createdAt": "2026-11-20T20:52:10.634Z",
+      "updatedAt": "2026-11-20T20:52:10.634Z",
+      "__v": 0
+    },
+    {
+      "_id": "6b00b2fadd6a595bf7825ad2",
+      "image": "/images/p-meher-jhumka.jpg",
+      "caption": "The Meher jhumka",
+      "externalUrl": "https://www.instagram.com/afshan_cosmetics_mumbai/",
+      "displayOrder": 2,
+      "active": true,
+      "createdAt": "2026-11-20T20:52:10.634Z",
+      "updatedAt": "2026-11-20T20:52:10.634Z",
+      "__v": 0
+    },
+    {
+      "_id": "6b00b2fadd6a595bf7825ad3",
+      "image": "/images/hero-gift.jpg",
+      "caption": "Boxed and ready to give",
+      "externalUrl": "https://www.instagram.com/afshan_cosmetics_mumbai/",
+      "displayOrder": 3,
+      "active": true,
+      "createdAt": "2026-11-20T20:52:10.634Z",
+      "updatedAt": "2026-11-20T20:52:10.634Z",
+      "__v": 0
+    },
+    {
+      "_id": "6b00b2fadd6a595bf7825ad4",
+      "image": "/images/p-gulbahar-choker.jpg",
+      "caption": "Choker sets for the season",
+      "externalUrl": "https://www.instagram.com/afshan_cosmetics_mumbai/",
+      "displayOrder": 4,
+      "active": true,
+      "createdAt": "2026-11-20T20:52:10.634Z",
+      "updatedAt": "2026-11-20T20:52:10.634Z",
+      "__v": 0
+    },
+    {
+      "_id": "6b00b2fadd6a595bf7825ad5",
+      "image": "/images/p-velvet-lipstick.jpg",
+      "caption": "Shades that sit beside gold",
+      "externalUrl": "https://www.instagram.com/afshan_cosmetics_mumbai/",
+      "displayOrder": 5,
+      "active": true,
+      "createdAt": "2026-11-20T20:52:10.634Z",
+      "updatedAt": "2026-11-20T20:52:10.634Z",
+      "__v": 0
+    },
+    {
+      "_id": "6b00b2fadd6a595bf7825ad6",
+      "image": "/images/boutique.jpg",
+      "caption": "The counter in Mumbai",
+      "externalUrl": "https://www.instagram.com/afshan_cosmetics_mumbai/",
+      "displayOrder": 6,
+      "active": true,
+      "createdAt": "2026-11-20T20:52:10.634Z",
+      "updatedAt": "2026-11-20T20:52:10.634Z",
+      "__v": 0
+    }
+  ]
+}
