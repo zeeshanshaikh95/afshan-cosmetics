@@ -22,7 +22,7 @@ export function OrderFloat() {
       target="_blank"
       rel="noopener noreferrer"
       onClick={() => trackEvent({ type: 'order_whatsapp_click' })}
-      className="fixed bottom-5 right-5 z-40 flex items-center gap-2 rounded-full border-2 border-ink bg-chilli-500 px-4 py-3 text-[10px] font-bold uppercase tracking-wide2 text-ivory shadow-sticker transition-all hover:translate-x-[2px] hover:translate-y-[2px] hover:shadow-none sm:bottom-8 sm:right-8"
+      className="fixed bottom-5 right-5 z-40 flex items-center gap-2 rounded-pill border border-gold-500 bg-gold-500 px-4 py-3 font-mono text-[9px] uppercase tracking-wide2 text-ink shadow-lift transition-colors hover:bg-ink hover:text-bone sm:bottom-8 sm:right-8"
     >
       {link.channel === 'whatsapp' ? (
         <svg viewBox="0 0 24 24" className="h-4 w-4" fill="currentColor" aria-hidden="true">
@@ -35,7 +35,7 @@ export function OrderFloat() {
           <circle cx="17.2" cy="6.8" r="0.9" fill="currentColor" stroke="none" />
         </svg>
       )}
-      {link.channel === 'whatsapp' ? 'Order on WhatsApp' : 'DM to order'}
+      {link.channel === 'whatsapp' ? 'Enquire on WhatsApp' : 'DM to enquire'}
     </a>
   );
 }
